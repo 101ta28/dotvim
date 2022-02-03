@@ -19,8 +19,6 @@ call dein#add('/home/tatsuya/.cache/dein/repos/github.com/Shougo/dein.vim')
 call dein#add("itchyny/lightline.vim")
 call dein#add("42Paris/42header")
 call dein#add("cohama/lexima.vim")
-call dein#add("justmao945/vim-clang")
-
 
 " Required:
 call dein#end()
