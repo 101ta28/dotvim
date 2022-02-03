@@ -1,2 +1,0 @@
-~/.cache/dein/.cache/.vimrc/.dein/autoload/lexima/insmode.vim
-置き換えする
