@@ -54,6 +54,7 @@ set softtabstop=4
 set tabstop=4
 set smarttab
 set laststatus=2
+set cursorline
 set clipboard+=unnamed
 
 "undo settings"
