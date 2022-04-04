@@ -16,8 +16,8 @@ call dein#add('/home/tatsuya/.cache/dein/repos/github.com/Shougo/dein.vim')
 " Add or remove your plugins here like this:
 "call dein#add('Shougo/neosnippet.vim')
 "call dein#add('Shougo/neosnippet-snippets')
+"call dein#add("42Paris/42header")
 call dein#add("itchyny/lightline.vim")
-call dein#add("42Paris/42header")
 call dein#add("cohama/lexima.vim")
 
 " Required:
@@ -65,8 +65,8 @@ if has('persistent_undo')
 endif
 
 "42Header"
-let g:user42 = 'timai'
-let g:mail42 = 'timai@student.42tokyo.jp'
+"let g:user42 = 'timai'
+"let g:mail42 = 'timai@student.42tokyo.jp'
 
 "Lightline settings"
 let g:lightline = {'colorscheme': 'wombat'}
