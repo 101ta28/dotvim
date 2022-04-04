@@ -1,7 +1,6 @@
 #!/bin/sh
 # dotfiles
-mkdir ~/.vim
-mkdir ~/.vim/undo
+mkdir -p ~/.vim/undo
 ln -sf ~/.dvim/.vim ~/.vim
 ln -sf ~/.dvim/.viminfo ~/.viminfo
 ln -sf ~/.dvim/.vimrc ~/.vimrc
