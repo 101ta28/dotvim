@@ -68,8 +68,8 @@ if has('persistent_undo')
 endif
 
 "42Header"
-let g:user42 = 'timai'
-let g:mail42 = 'timai@student.42tokyo.jp'
+"let g:user42 = 'timai'
+"let g:mail42 = 'timai@student.42tokyo.jp'
 
 "Lightline settings"
 let g:lightline = {'colorscheme': 'wombat'}
