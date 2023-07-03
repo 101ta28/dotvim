@@ -59,6 +59,7 @@ set smarttab
 set laststatus=2
 set cursorline
 set clipboard+=unnamed
+set mouse=a
 
 "undo settings"
 if has('persistent_undo')
